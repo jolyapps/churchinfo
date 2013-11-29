@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', 'churchinfo.cczwts500sen.eu-west-1.rds.amazonaws.com:3306');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'dclmict4Christ');
 define('DB_DATABASE', 'locprofile');
